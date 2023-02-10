@@ -1,5 +1,5 @@
 # How-to-program-an-ESP03
-How a quick guide to start booting/flashing/programming your ESP-03 or ESP8265 boards
+A quick guide to start booting/flashing/programming your ESP-03 or ESP8265 boards
 
 <img src="https://content.instructables.com/FOS/AZGY/LDX41CHP/FOSAZGYLDX41CHP.jpg?auto=webp&width=800&height=450&fit=bounds&md=561c8c864ec27d790a1beaa67e884af3"></img>
 
